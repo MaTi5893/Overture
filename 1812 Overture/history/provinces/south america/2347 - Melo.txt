@@ -1,5 +1,5 @@
-owner = URU
-controller = URU
+owner = SPA
+controller = SPA colonial = 2
 add_core = URU
 trade_goods = cattle
 life_rating = 35

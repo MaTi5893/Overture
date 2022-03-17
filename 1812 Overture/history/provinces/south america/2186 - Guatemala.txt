@@ -1,5 +1,5 @@
-owner = UCA
-controller = UCA
+owner = SPA
+controller = SPA colonial = 1
 add_core = UCA
 add_core = GUA
 trade_goods = fruit

@@ -1,5 +1,5 @@
-owner = VNZ
-controller = VNZ
+owner = SPA
+controller = SPA colonial = 2
 add_core = VNZ
 add_core = GCO
 trade_goods = fruit

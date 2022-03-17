@@ -13,7 +13,31 @@ nv_equality = {
 	mobilisation_economy_impact = 1.25
 }
 
-napoleon = {
+leader_napoleon = {
+	mobilisation_size = 0.06
+	mobilisation_economy_impact = 1.25
+	org_regain = 2
+}
+
+leader_frederich_wilhelm = {
+	mobilisation_size = 0.06
+	mobilisation_economy_impact = 1.25
+	org_regain = 2
+}
+
+leader_alexander = {
+	mobilisation_size = 0.06
+	mobilisation_economy_impact = 1.25
+	org_regain = 2
+}
+
+leader_leapold_ii = {
+	mobilisation_size = 0.06
+	mobilisation_economy_impact = 1.25
+	org_regain = 2
+}
+
+leader_george_iii = {
 	mobilisation_size = 0.06
 	mobilisation_economy_impact = 1.25
 	org_regain = 2
