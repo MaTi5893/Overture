@@ -1,0 +1,16 @@
+bookmark =
+{
+	name = "Revolutionary Europe"
+	desc = "GC_DESC"
+	date = 1800.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
+bookmark =
+{
+	name = "Overture"
+	desc = "GC_DESC"
+	date = 1812.1.1
+	cameraX = 2950 
+	cameraY = 1550
+}
