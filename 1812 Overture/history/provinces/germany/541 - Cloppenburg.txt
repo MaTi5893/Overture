@@ -1,6 +1,10 @@
-owner = FRA
-controller = FRA
+owner = OLD
+controller = OLD
 add_core = OLD
 add_core = GER
 trade_goods = coal
 life_rating = 40
+1812.01.01 = {
+	owner = FRA
+	controller = FRA
+}

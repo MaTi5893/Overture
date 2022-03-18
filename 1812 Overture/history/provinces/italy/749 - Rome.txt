@@ -8,3 +8,8 @@ life_rating = 35
 	add_core = ITA
 }
 1861.1.1 = { railroad = 2 }
+1812.1.1 = {
+	owner = FRA
+	controller = FRA
+	add_core = PRU
+}

@@ -8,7 +8,7 @@ life_rating = 35
 #	building = lumber_mill
 #	upgrade = yes
 #}
-1805.1.1 = {
+1812.1.1 = {
 	owner = BAV
 	controller = BAV
 	add_core = BAV

@@ -21,3 +21,7 @@ naval_base = 1
 	controller = ITA
 	add_core = ITA
 }
+1807.1.1 = {
+	owner = FRA
+	controller = FRA
+}

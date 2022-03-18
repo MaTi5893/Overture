@@ -3,3 +3,8 @@ controller = SPA colonial = 2
 trade_goods = cattle
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+1805.1.1 = { 
+	owner = USA
+	controller = USA
+	add_core = USA
+}

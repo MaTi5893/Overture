@@ -1,6 +1,10 @@
-owner = FRA
-controller = ENG
+owner = ION
+controller = ION
 add_core = ION
 add_core = GRE
 trade_goods = fish
 life_rating = 35
+1812.1.1 = {
+	owner = FRA
+	controller = ENG
+}

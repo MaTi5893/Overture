@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = OLD
+controller = OLD
 add_core = OLD
 add_core = GER
 trade_goods = fish
@@ -11,4 +11,8 @@ life_rating = 40
 #}
 1861.1.1 = {
 	naval_base = 1 #Wilhelmshaven
+}
+1812.1.1 = {
+	owner = FRA
+	controller = FRA
 }

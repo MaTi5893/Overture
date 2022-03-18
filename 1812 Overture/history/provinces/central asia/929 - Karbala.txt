@@ -4,3 +4,7 @@ add_core = TUR
 add_core = IRQ
 trade_goods = grain
 life_rating = 35
+1805.01.01 = {
+	owner = IRQ
+	controller = IRQ
+}

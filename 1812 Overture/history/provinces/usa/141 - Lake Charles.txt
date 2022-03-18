@@ -7,3 +7,8 @@ life_rating = 35
 	owner = CSA
 	add_core = CSA
 }
+1805.1.1 = { 
+	owner = USA
+	controller = USA
+	add_core = USA
+}
