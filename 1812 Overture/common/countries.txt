@@ -61,6 +61,7 @@ SCH		= "countries/Schleswig.txt"
 SGF		= "countries/South German Fed.txt"
 WEI		= "countries/Saxe-Weimar.txt"
 WUR		= "countries/Wurttemberg.txt"
+BRG		= "countries/Berg.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"
