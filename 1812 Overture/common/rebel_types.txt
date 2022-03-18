@@ -56,7 +56,27 @@ reactionary_rebels = {
 		
 		modifier = {
 			social_speding = 1
-			factor = -100
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
 		}
 
 		modifier = {
@@ -92,6 +112,13 @@ reactionary_rebels = {
 					pop_majority_ideology = conservative
 					pop_majority_ideology = fascist
 				}
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
@@ -259,6 +286,31 @@ fascist_rebels = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -294,6 +346,13 @@ fascist_rebels = {
 			factor = 0
 			NOT = {
 				is_ideology_enabled = fascist
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
@@ -460,6 +519,31 @@ communist_rebels = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -506,6 +590,13 @@ communist_rebels = {
 		modifier = {
 			factor = 0
 			country = { civilized = no }
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
+			}
 		}
 		modifier = {
 			factor = 0
@@ -672,6 +763,31 @@ anarcho_liberal_rebels = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -714,6 +830,13 @@ anarcho_liberal_rebels = {
 					pop_majority_ideology = anarcho_liberal
 					pop_majority_ideology = liberal
 				}
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
@@ -865,6 +988,31 @@ nationalist_rebels = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -892,6 +1040,13 @@ nationalist_rebels = {
 		modifier = {
 			factor = 0
 			country = { civilized = no }
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
+			}
 		}
 		modifier = {
 			factor = 0.25
@@ -1080,6 +1235,31 @@ pan_nationalist_rebels = {
 	will_rise = 
 	{
 		factor = 0.5
+		
+		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
 		
 		modifier = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
@@ -1315,6 +1495,30 @@ carlist_rebels = {
 	will_rise = 
 	{
 		factor = 0.5
+		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
 		
 		modifier = {
 			war = yes
@@ -1345,6 +1549,13 @@ carlist_rebels = {
 		modifier = {
 			factor = 0
 			country = { NOT = { tag = SPA}}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
+			}
 		}
 		modifier = {
 			factor = 1.015
@@ -1487,7 +1698,30 @@ boxer_rebels = {
 	will_rise = 
 	{
 		factor = 0.5
+		modifier = {
+			social_speding = 1
+			factor = 2
+		}
 		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
 		modifier = {
 			war = yes
 			factor = 0.8
@@ -1712,6 +1946,31 @@ red_shirts = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
 			factor = 0
 		}
@@ -1763,6 +2022,14 @@ red_shirts = {
 			}
 		}
 		
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
+			}
+		}
+
 		modifier = {
 			factor = 0
 			country = {
@@ -1955,6 +2222,31 @@ indian_sepoys = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			NOT = { any_greater_power = { nationalism_n_imperialism = 1 } }
 			factor = 0
 		}	
@@ -2003,6 +2295,14 @@ indian_sepoys = {
 			factor = 0
 			NOT = {
 				continent = asia
+			}
+		}
+	
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		
@@ -2172,6 +2472,31 @@ liberal_rebels = {
 		factor = 0.5
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -2214,6 +2539,13 @@ liberal_rebels = {
 		modifier = {
 			factor = 0
 				social_movement = yes
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
+			}
 		}
 		modifier = {
 			factor = 0 # -100?
@@ -2377,6 +2709,31 @@ unciv_reactionary_rebels = {
 		factor = 1
 		
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			war = yes
 			factor = 0.8
 		}
@@ -2413,6 +2770,13 @@ unciv_reactionary_rebels = {
 					pop_majority_ideology = conservative
 					pop_majority_ideology = fascist
 				}
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
@@ -2567,9 +2931,41 @@ sioux_nation = {
 	spawn_chance = {
 		factor = 2
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			factor = 0
 			NOT = {
 				culture = dakota 
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
@@ -2688,9 +3084,41 @@ apache = {
 	spawn_chance = {
 		factor = 2
 		modifier = {
+			social_speding = 1
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.8
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.6
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.4
+			factor = 2
+		}
+		
+		modifier = {
+			social_speding = 0.2
+			factor = 2
+		}
+		
+		modifier = {
 			factor = 0
 			NOT = {
 				culture = native_american_minor
+			}
+		}
+		modifier = {
+			factor = 0.01
+			type = soldiers
+			country = {
+				social_speding = 0.6
 			}
 		}
 		modifier = {
