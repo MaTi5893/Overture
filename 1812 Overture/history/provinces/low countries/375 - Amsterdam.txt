@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = cattle
 life_rating = 35
@@ -22,4 +22,8 @@ life_rating = 35
 		building = paper_mill
 		upgrade = yes
 	}
+}
+1812.1.1 = {
+	owner = FRA
+	controller = FRA
 }

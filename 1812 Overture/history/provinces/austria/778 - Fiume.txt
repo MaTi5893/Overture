@@ -1,6 +1,10 @@
-owner = FRA
-controller = FRA
+owner = AUS
+controller = AUS
 add_core = AUS
 add_core = CRO
 trade_goods = fruit
 life_rating = 35
+1812.1.1 = {
+	owner = FRA
+	controller = FRA
+}

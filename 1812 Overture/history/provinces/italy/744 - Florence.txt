@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = TUS
+controller = TUS
 add_core = TUS
 add_core = ITA
 trade_goods = fruit

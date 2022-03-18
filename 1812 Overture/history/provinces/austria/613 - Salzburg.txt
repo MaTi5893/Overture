@@ -1,6 +1,5 @@
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = AUS
+controller = AUS
 add_core = AUS
 trade_goods = grain
 life_rating = 35
@@ -9,3 +8,8 @@ life_rating = 35
 #	building = ammunition_factory
 #	upgrade = yes
 #}
+1812.1.1 = {
+	owner = BAV
+	controller = BAV
+	add_core = BAV
+}

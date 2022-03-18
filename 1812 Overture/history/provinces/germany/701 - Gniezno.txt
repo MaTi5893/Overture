@@ -1,6 +1,6 @@
-owner = POL
-controller = POL
-add_core = GER
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = POL
 add_core = PLC
 trade_goods = grain
@@ -11,4 +11,9 @@ life_rating = 40
 		building = fertilizer_factory
 		upgrade = yes
 	}
+}
+1807.1.1 = {
+	owner = POL
+	controller = POL
+	add_core = POL
 }

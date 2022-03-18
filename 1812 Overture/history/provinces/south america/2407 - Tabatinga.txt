@@ -1,5 +1,6 @@
 owner = SPA
-controller = BRZ
+controller = SPA
 add_core = BRZ
+colonial = 2
 trade_goods = timber
 life_rating = 25

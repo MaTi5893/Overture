@@ -1,5 +1,5 @@
-owner = FRA
-controller = FRA
+owner = NET
+controller = NET
 add_core = NET
 trade_goods = fish
 life_rating = 35
@@ -7,4 +7,8 @@ naval_base = 2
 1861.1.1 = { 
 	railroad = 1
 	naval_base = 3
+}
+1812.1.1 = {
+	owner = FRA
+	controller = FRA
 }

@@ -1,6 +1,10 @@
-owner = BAV
-controller = BAV
-add_core = BAV
+owner = AUS
+controller = AUS
 add_core = AUS
 trade_goods = timber
 life_rating = 35
+1805.1.1 = {
+	owner = BAV
+	controller = BAV
+	add_core = BAV
+}
