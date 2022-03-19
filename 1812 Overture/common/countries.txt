@@ -62,6 +62,8 @@ SGF		= "countries/South German Fed.txt"
 WEI		= "countries/Saxe-Weimar.txt"
 WUR		= "countries/Wurttemberg.txt"
 BRG		= "countries/Berg.txt"
+WRZ		= "countries/Wurzburg.txt"
+MUN		= "countries/Munster.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"
@@ -76,6 +78,7 @@ TUS		= "countries/Tuscany.txt"
 VEN		= "countries/Venice.txt"
 SVY		= "countries/Savoy.txt"
 GEN		= "countries/Genoa.txt"
+NAP		= "countries/Naples.txt"
 
 # Eastern Europe
 BOH		= "countries/Bohemia-Moravia.txt"
