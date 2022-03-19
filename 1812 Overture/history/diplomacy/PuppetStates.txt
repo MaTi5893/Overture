@@ -1,40 +1,3 @@
-#China substates
-substate = {
-	first = CHI
-	second = GXI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = CHI
-	second = MCK
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = CHI
-	second = XIN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = CHI
-	second = YNN
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = CHI
-	second = XBI
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
-substate = {
-	first = CHI
-	second = MGL
-	start_date = 1836.1.1
-	end_date = 1937.1.1
-}
 vassal = {
 	first = CHI
 	second = TIB
@@ -93,7 +56,7 @@ vassal = {
 vassal = {
 	first = TUR
 	second = WAL
-	start_date = 1836.1.1
+	start_date = 1800.1.1
 	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
 }
 
@@ -101,10 +64,79 @@ vassal = {
 vassal = {
 	first = TUR
 	second = MOL
-	start_date = 1836.1.1
+	start_date = 1800.1.1
 	end_date = 1859.1.24	# Reunification of Wallachia and Moldavia
 }
 
+#######################
+#		FRANCE		  #
+#######################
+vassal = {
+	first = FRA
+	second = ITA
+	start_date = 1800.1.1
+	end_date = 1815.1.24
+}
+vassal = {
+	first = FRA
+	second = SVY
+	start_date = 1800.1.1
+	end_date = 1805.1.1
+}
+vassal = {
+	first = FRA
+	second = GEN
+	start_date = 1800.1.1
+	end_date = 1805.1.1
+}
+vassal = {
+	first = FRA
+	second = PAR
+	start_date = 1800.1.1
+	end_date = 1812.1.1
+}
+vassal = {
+	first = FRA
+	second = LUC
+	start_date = 1800.1.1
+	end_date = 1812.1.1
+}
+vassal = {
+	first = FRA
+	second = PAP
+	start_date = 1800.1.1
+	end_date = 1812.1.1
+}
+vassal = {
+	first = FRA
+	second = TUS
+	start_date = 1799.1.1
+	end_date = 1812.1.1
+}
+vassal = {
+	first = FRA
+	second = NET
+	start_date = 1800.1.1
+	end_date = 1812.1.1
+}
+vassal = {
+	first = FRA
+	second = SWI
+	start_date = 1800.1.1
+	end_date = 1814.1.1
+}
+vassal = {
+	first = FRA
+	second = POL
+	start_date = 1807.1.1
+	end_date = 1813.1.1
+}
+vassal = {
+	first = POL
+	second = SAX
+	start_date = 1807.1.1
+	end_date = 1813.1.1
+}
 #######################
 #        INDIA        #
 #######################
@@ -268,28 +300,3 @@ vassal = {
 	end_date = 1861.1.1
 }
 
-
-#########1861
-# Siam - Cambodia
-vassal = {
-	first = SIA
-	second = CAM
-	start_date = 1861.1.1
-	end_date = 1936.1.1
-}
-
-# UK - KAS
-vassal = {
-	first = ENG
-	second = KAS
-	start_date = 1861.1.1
-	end_date = 1936.1.1
-}
-
-# OE - Hejaz 
-vassal = {
-	first = TUR
-	second = HDJ
-	start_date = 1861.1.1
-	end_date = 1936.1.1
-}
