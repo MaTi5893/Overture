@@ -1,10 +1,14 @@
-owner = FRA
+owner = HAI
 controller = HAI
 add_core = HAI
 add_core = DOM
 trade_goods = tobacco
 life_rating = 35
-1861.1.1 = {
-owner = DOM
-controller = DOM
+1804.1.1 = {
+owner = FRA
+controller = HAI
+}
+1806.1.1 = {
+owner = SPA
+controller = SPA
 }
