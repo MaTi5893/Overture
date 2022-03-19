@@ -1,5 +1,9 @@
 owner = ENG
-controller = ENG
+controller = FRA
 trade_goods = tropical_wood
 life_rating = 30
 colonial = 2
+1804.1.1 = {
+owner = ENG
+controller = ENG
+}
