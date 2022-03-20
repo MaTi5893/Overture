@@ -73,6 +73,12 @@ vassal = {
 #######################
 vassal = {
 	first = FRA
+	second = HAI
+	start_date = 1799.1.1
+	end_date = 1804.1.1
+}
+vassal = {
+	first = FRA
 	second = ITA
 	start_date = 1800.1.1
 	end_date = 1815.1.24
