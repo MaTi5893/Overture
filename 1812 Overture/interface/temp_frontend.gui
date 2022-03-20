@@ -169,8 +169,8 @@ guiTypes = {
 			listboxType = 
 			{
 				name ="games"
-				position = { x=152 y =117}
-				size = { x=270 y =96 }
+				position = { x=193 y =117}
+				size = { x=235 y =96 }
 				spacing = 2
 				scrollbartype = "standardlistbox_slider"
 				borderSize = {x = 10 y = 10}
@@ -179,57 +179,57 @@ guiTypes = {
 
 			guiButtonType = {
 				name = "host"
-				position = { x = 173 y = 260 }
+				position = { x = 193 y = 260 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_HOST"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
 				name = "join"
-				position = { x = 173 y = 295 }
+				position = { x = 193 y = 295 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_JOIN_LAN_GAME"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
 				name = "join_direct"
-				position = { x = 173 y = 330 }
+				position = { x = 193 y = 330 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_JOIN_INTERNET_GAME"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
 				name = "scan"
-				position = { x = 298 y = 219 }
+				position = { x = 238 y = 219 }
 				quadTextureSprite ="GFX_button_standard_111"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_SCAN"
-				buttonFont = "vic_18_black"
+				buttonFont = "vic_18"
 			}
 			
 			guiButtonType = {
 				name = "metaserver"
-				position = { x = 173 y = 365 }
+				position = { x = 193 y = 365 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_METASERVER"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
@@ -240,7 +240,7 @@ guiTypes = {
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_BACK"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			editBoxType = {
@@ -344,67 +344,67 @@ guiTypes = {
 			
 			guiButtonType = {
 				name = "single_player_button"
-				position = { x = -84 y = 614 }
+				position = { x = -39 y = 594 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_SINGLE_PLAYER"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
 				name = "multi_player_button"
-				position = { x = 158 y = 614 }
+				position = { x = 173 y = 594 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_MULTI_PLAYER"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 
 			guiButtonType = {
 				name = "tutorial_button"
-				position = { x = 400 y = 614 }
+				position = { x = 395 y = 594 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_TUTORIAL"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 
 			guiButtonType = {
 				name = "settings_button"
-				position = { x = -84 y = 657 }
+				position = { x = -39 y = 637 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_OPTIONS"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			guiButtonType = {
 				name = "credits_button"
-				position = { x = 158 y = 657	 }
+				position = { x = 173 y = 637	 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_CREDITS"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			guiButtonType = {
 				name = "exit_button"
-				position = { x = 400 y = 657 }
+				position = { x = 395 y = 637 }
 				quadTextureSprite ="GFX_frontend_button_236"	
 				tooltip = ""
 				tooltipText =""
 				delayedTooltipText = ""
 				buttonText = "FE_EXIT"
-				buttonFont = "vic_22_black"
+				buttonFont = "vic_22"
 			}
 			
 			
