@@ -133,6 +133,12 @@ vassal = {
 }
 vassal = {
 	first = FRA
+	second = NSA
+	start_date = 1812.1.1
+	end_date = 1814.1.1
+}
+vassal = {
+	first = FRA
 	second = POL
 	start_date = 1807.1.1
 	end_date = 1813.1.1

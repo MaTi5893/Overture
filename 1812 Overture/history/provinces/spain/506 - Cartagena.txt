@@ -8,3 +8,6 @@ naval_base = 1
 	railroad = 3 
 	naval_base = 3
 }
+1812.1.1 = {
+	add_core = NSA
+}

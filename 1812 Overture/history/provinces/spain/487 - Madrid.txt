@@ -14,3 +14,8 @@ life_rating = 40
 #	upgrade = yes
 #}
 1861.1.1 = { railroad = 2 }
+1812.1.1 = {
+	owner = NSA
+	controller = NSA
+	add_core = NSA
+}

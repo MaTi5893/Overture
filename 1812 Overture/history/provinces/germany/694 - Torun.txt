@@ -7,7 +7,7 @@ trade_goods = grain
 life_rating = 40
 1861.1.1 = { railroad = 3 }
 1807.1.1 = {
-	owner = POL
-	controller = POL
-	add_core = POL
+	owner = CPL
+	controller = CPL
+	add_core = CPL
 }

@@ -9,3 +9,8 @@ life_rating = 35
 	owner = ITA
 	add_core = ITA
 }
+1805.1.1 = {
+	owner = NAP
+	controller = NAP
+	add_core = NAP
+}

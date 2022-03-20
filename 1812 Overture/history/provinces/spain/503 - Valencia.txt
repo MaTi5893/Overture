@@ -26,3 +26,6 @@ life_rating = 35
 	}
 }
 1861.1.1 = { railroad = 2 }
+1812.1.1 = {
+	add_core = NSA
+}

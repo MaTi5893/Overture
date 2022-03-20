@@ -4,3 +4,8 @@ add_core = SPA
 trade_goods = wool
 life_rating = 35
 1861.1.1 = { railroad = 3 }
+1812.1.1 = {
+	owner = NSA
+	controller = NSA
+	add_core = NSA
+}

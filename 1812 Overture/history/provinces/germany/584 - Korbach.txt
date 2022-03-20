@@ -1,7 +1,13 @@
-owner = PRU
-controller = PRU
+owner = MUN
+controller = MUN
+add_core = MUN
 add_core = PRU
 add_core = GER
 trade_goods = timber
 life_rating = 40
 1861.1.1 = { railroad = 3 }
+1805.1.1 = {
+owner = HES
+controller = HES
+add_core = HES
+}
