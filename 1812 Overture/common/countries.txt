@@ -33,6 +33,7 @@ POR		= "countries/Portugal.txt"
 SCO		= "countries/Scotland.txt"
 SPA		= "countries/Spain.txt"
 WLL		= "countries/Wallonia.txt"
+NSA     = "countries/Napoleonic Spain.txt"
 
 # Germany
 ANH		= "countries/Anhalt.txt"
@@ -95,6 +96,7 @@ RUT		= "countries/Ruthenia.txt"
 SIE		= "countries/Siebenburgen.txt"
 UKR		= "countries/Ukraine.txt"
 CZH		= "countries/Czechoslovakia.txt"
+CPL		= "countries/Congress Poland.txt"
 
 # Balkans
 ALB		="countries/Albania.txt"
