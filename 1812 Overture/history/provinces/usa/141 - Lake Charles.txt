@@ -1,5 +1,4 @@
-owner = SPA
-controller = SPA colonial = 2
+ colonial = 2
 trade_goods = sulphur
 life_rating = 35
 1861.1.1 = {
@@ -7,8 +6,6 @@ life_rating = 35
 	owner = CSA
 	add_core = CSA
 }
-1805.1.1 = { 
 	owner = USA
 	controller = USA
 	add_core = USA
-}

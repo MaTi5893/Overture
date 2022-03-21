@@ -1,5 +1,4 @@
-owner = SPA
-controller = SPA colonial = 2
+colonial = 2
 trade_goods = grain
 life_rating = 35
 1861.1.1 = {
@@ -12,8 +11,6 @@ life_rating = 35
 		upgrade = yes
 	}
 }
-1805.1.1 = { 
 	owner = USA
 	controller = USA
 	add_core = USA
-}

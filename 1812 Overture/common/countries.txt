@@ -65,6 +65,7 @@ WUR		= "countries/Wurttemberg.txt"
 BRG		= "countries/Berg.txt"
 WRZ		= "countries/Wurzburg.txt"
 MUN		= "countries/Munster.txt"
+GCF		= "countries/German Confederation.txt"
 
 # Italy
 LOM		= "countries/Lombardia.txt"

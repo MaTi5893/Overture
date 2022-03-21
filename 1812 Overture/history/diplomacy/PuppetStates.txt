@@ -73,27 +73,9 @@ vassal = {
 #######################
 vassal = {
 	first = FRA
-	second = HAI
-	start_date = 1799.1.1
-	end_date = 1804.1.1
-}
-vassal = {
-	first = FRA
 	second = ITA
 	start_date = 1800.1.1
 	end_date = 1815.1.24
-}
-vassal = {
-	first = FRA
-	second = SVY
-	start_date = 1800.1.1
-	end_date = 1805.1.1
-}
-vassal = {
-	first = FRA
-	second = GEN
-	start_date = 1800.1.1
-	end_date = 1805.1.1
 }
 vassal = {
 	first = FRA
@@ -133,18 +115,24 @@ vassal = {
 }
 vassal = {
 	first = FRA
+	second = HAN
+	start_date = 1807.1.1
+	end_date = 1813.1.1
+}
+vassal = {
+	first = FRA
 	second = NSA
 	start_date = 1812.1.1
 	end_date = 1814.1.1
 }
 vassal = {
 	first = FRA
-	second = POL
+	second = CPL
 	start_date = 1807.1.1
 	end_date = 1813.1.1
 }
 vassal = {
-	first = POL
+	first = CPL
 	second = SAX
 	start_date = 1807.1.1
 	end_date = 1813.1.1

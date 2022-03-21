@@ -1,24 +1,8 @@
 bookmark =
 {
-	name = "Revolutionary Europe"
-	desc = "GC_DESC"
-	date = 1800.1.1
-	cameraX = 2950 
-	cameraY = 1550
-}
-bookmark =
-{
 	name = "Gathering Storm"
 	desc = "GC_DESC"
 	date = 1805.1.1
-	cameraX = 2950 
-	cameraY = 1550
-}
-bookmark =
-{
-	name = "Peace of Tilsit"
-	desc = "GC_DESC"
-	date = 1807.1.1
 	cameraX = 2950 
 	cameraY = 1550
 }

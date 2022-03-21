@@ -71,6 +71,9 @@ consciousness = 3
 nonstate_consciousness = 1
 
 oob = "HAN_oob.txt"
+1807.1.1 = {
+	government = democracy
+}
 1861.1.1 = {
 	oob = "/1861/HAN_oob.txt"
 	plurality = 60

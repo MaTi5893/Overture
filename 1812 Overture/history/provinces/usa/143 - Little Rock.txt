@@ -1,5 +1,4 @@
-owner = SPA
-controller = SPA colonial = 2
+colonial = 2
 add_core = CHE
 trade_goods = grain
 life_rating = 35
@@ -9,8 +8,6 @@ life_rating = 35
 	add_core = CSA
 	remove_core = CHE
 }
-1805.1.1 = { 
 	owner = USA
 	controller = USA
 	add_core = USA
-}

@@ -8,4 +8,5 @@ life_rating = 40
 1807.1.1 = {
 	owner = HAN
 	controller = HAN
+	add_core = HAN
 }

@@ -1,5 +1,4 @@
-owner = SIC
-controller = SIC
+
 add_core = SIC
 add_core = ITA
 trade_goods = wool
@@ -9,8 +8,6 @@ life_rating = 35
 	owner = ITA
 	add_core = ITA
 }
-1805.1.1 = {
 	owner = NAP
 	controller = NAP
 	add_core = NAP
-}

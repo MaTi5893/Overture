@@ -1,5 +1,4 @@
-owner = SPA
-controller = SPA colonial = 2
+colonial = 2
 trade_goods = grain
 life_rating = 35
 naval_base = 1
@@ -18,8 +17,6 @@ naval_base = 1
 	naval_base = 1
 	fort = 1
 }
-1805.1.1 = { 
 	owner = USA
 	controller = USA
 	add_core = USA
-}
