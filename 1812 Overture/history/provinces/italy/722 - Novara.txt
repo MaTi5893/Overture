@@ -1,7 +1,7 @@
+owner = ITA
+controller = ITA
 add_core = SVY
 add_core = SAR
 add_core = ITA
 trade_goods = cattle
 life_rating = 35
-	owner = ITA
-	controller = ITA}

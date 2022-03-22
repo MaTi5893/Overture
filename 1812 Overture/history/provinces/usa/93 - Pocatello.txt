@@ -1,12 +1,10 @@
 owner = SPA
 
-controller = SPA colonial = 2
+controller = SPA
 
 add_core = MEX
 
 trade_goods = cattle
 life_rating = 30
 colonial = 2
-1861.1.1 = {
-	add_core = USA
-}
+

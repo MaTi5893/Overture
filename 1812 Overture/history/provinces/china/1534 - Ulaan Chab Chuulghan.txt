@@ -1,5 +1,4 @@
 owner = CHI
-owner = CHI
 add_core = MGL
 add_core = CHI
 trade_goods = timber

@@ -1,6 +1,6 @@
 trade_goods = grain
 life_rating = 35
-colony = 2 
+colonial = 2 
 	owner = USA
 	controller = USA
 	add_core = USA
