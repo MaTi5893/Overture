@@ -230,6 +230,18 @@ spriteTypes = {
 		name = "GFX_politics_industrial_construction"
 		texturefile = "gfx\\interface\\politics_industrial_construction.dds"
 	}
+	spriteType = {
+		name = "GFX_politics_army"
+		texturefile = "gfx\\interface\\army.dds"
+	}
+	spriteType = {
+		name = "GFX_politics_law"
+		texturefile = "gfx\\interface\\law.dds"
+	}
+	spriteType = {
+		name = "GFX_politics_parliament"
+		texturefile = "gfx\\interface\\parliament.dds"
+	}
 	
 	
 	###
