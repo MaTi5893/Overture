@@ -465,52 +465,52 @@ promote_to =
 		}	
 		modifier = {
 			factor = 4
-			safety_regulations = trinket_safety
+			#safety_regulations = trinket_safety
 		}
 		modifier = {
 			factor = 8
-			safety_regulations = low_safety
+			#safety_regulations = low_safety
 		}		
 		modifier = {
 			factor = 12
-			safety_regulations = acceptable_safety
+			#safety_regulations = acceptable_safety
 		}
 		modifier = {
 			factor = 16
-			safety_regulations = good_safety
+			#safety_regulations = good_safety
 		}
 		
 		modifier = {
 			factor = 4
-			work_hours = fourteen_hours
+			#work_hours = fourteen_hours
 		}
 		modifier = {
 			factor = 8
-			work_hours = twelve_hours
+			#work_hours = twelve_hours
 		}		
 		modifier = {
 			factor = 12
-			work_hours  = ten_hours
+			#work_hours  = ten_hours
 		}
 		modifier = {
 			factor = 16
-			work_hours = eight_hours
+			#work_hours = eight_hours
 		}
 		modifier = {
 			factor = 4
-			wage_reform = trinket_wage
+			#wage_reform = trinket_wage
 		}
 		modifier = {
 			factor = 8
-			wage_reform = low_minimum_wage
+			#wage_reform = low_minimum_wage
 		}		
 		modifier = {
 			factor = 12
-			wage_reform  = acceptable_minimum_wage
+			#wage_reform  = acceptable_minimum_wage
 		}
 		modifier = {
 			factor = 16
-			wage_reform = good_minimum_wage
+			#wage_reform = good_minimum_wage
 		}
 		
 		group = {
@@ -4219,14 +4219,14 @@ issues =
 			consciousness = 9
 		}
 	}
-	trinket_pensions = { 
+	trinket_#pensions = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = trinket_pensions
+					is_next_reform = trinket_#pensions
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4298,14 +4298,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	low_pensions = { 
+	low_#pensions = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = low_pensions
+					is_next_reform = low_#pensions
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4377,14 +4377,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	acceptable_pensions = { 
+	acceptable_#pensions = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = acceptable_pensions
+					is_next_reform = acceptable_#pensions
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	
@@ -4456,14 +4456,14 @@ issues =
 			luxury_needs = 1
 		}
 	}
-	good_pensions = { 
+	good_#pensions = { 
 		factor = 1
 		modifier = {
 			factor = 0 
 			OR = {
 				NOT = { consciousness = 6 }
 				NOT = {
-					is_next_reform = good_pensions
+					is_next_reform = good_#pensions
 				}
 				NOT = { is_ideology_enabled = socialist }
 			}	

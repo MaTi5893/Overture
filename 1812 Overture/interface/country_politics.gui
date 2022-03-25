@@ -555,8 +555,8 @@ guiTypes = {
 			### LABELS RIGHT
 			instantTextBoxType = { 
 				name = "social_reforms"
-				position = { x = 390 y = 62 }
-				font = "vic_18"
+				position = { x = 390 y = 50 }
+				font = "vic_18_black"
 				text = "POLITICS_SOCIAL_REFORMS"	
 				maxWidth = 290
 				maxHeight = 20	
@@ -565,8 +565,8 @@ guiTypes = {
 			
 			instantTextBoxType = { 
 				name = "political_reforms"
-				position = { x = 698 y = 62 }
-				font = "vic_18"
+				position = { x = 698 y = 50 }
+				font = "vic_18_black"
 				text = "POLITICS_POLITICAL_REFORMS"	
 				maxWidth = 290
 				maxHeight = 20
@@ -579,7 +579,7 @@ guiTypes = {
 			windowType = {
 				name = "slavery"
 				backGround =""
-				position = { x = 686 y = 81 }
+				position = { x = 843 y = 345 }
 				size = { x=310 y=100 }
 				moveable = 0
 				dontRender = ""
@@ -590,14 +590,14 @@ guiTypes = {
 				iconType = {
 				 name = "politics_slavery"
 				 spriteType = "GFX_politics_slavery"
-				 position = { x= 5 y = 7 }
+				 position = { x= 6 y = 7 }
 				 Orientation = "UPPER_LEFT"
 			 }
 				
 				instantTextBoxType = { 
 					name = "reform_name"
 					position = { x = 40 y = 15 }
-					font = "vic_18"
+					font = "vic_18_black"
 					text = "REFORM_NAME"	
 					maxWidth = 100
 					maxHeight = 20	
@@ -607,8 +607,8 @@ guiTypes = {
 			windowType = {
 				name = "upper_house_composition"
 				backGround =""
-				position = { x = 686 y = 122 }
-				size = { x=310 y=100 }
+				position = { x = 843 y = 53 }
+				size = { x=151 y=90 }
 				moveable = 0
 				dontRender = ""
 				horizontalBorder = "0"
@@ -616,16 +616,16 @@ guiTypes = {
 				fullScreen = no
 				
 				iconType = {
-				 name = "politics_upperhouse"
-				 spriteType = "GFX_politics_upperhouse"
-				 position = { x= 7 y = 7 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
+					name = "politics_upperhouse"
+					spriteType = "GFX_politics_upperhouse"
+					position = { x= 6 y = 7 }
+					Orientation = "UPPER_LEFT"
+				}
+			 
 				instantTextBoxType = { 
 					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
+					position = { x = 39 y = 15 }
+					font = "vic_18_black"
 					text = "REFORM_NAME"	
 					maxWidth = 100
 					maxHeight = 20	
@@ -635,8 +635,8 @@ guiTypes = {
 			windowType = {
 				name = "vote_franschise"
 				backGround =""
-				position = { x = 686 y = 192 }
-				size = { x=310 y=100 }
+				position = { x = 691 y = 278 }
+				size = { x = 151 y = 114 }
 				moveable = 0
 				dontRender = ""
 				horizontalBorder = "0"
@@ -646,7 +646,7 @@ guiTypes = {
 				iconType = {
 				 name = "politics_votefran"
 				 spriteType = "GFX_politics_votefran"
-				 position = { x= 7 y = 7 }
+				 position = { x= 6 y = 7 }
 				 Orientation = "UPPER_LEFT"
 			 }
 				
@@ -805,145 +805,7 @@ guiTypes = {
 			### social
 			########################
 		
-			windowType = {
-				name = "wage_reform"
-				backGround =""
-				position = { x = 382 y = 81 }
-				size = { x=310 y=100 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_minwage"
-				 spriteType = "GFX_politics_minwage"
-				 position = { x= 7 y = 8 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
-					text = "REFORM_NAME"	
-					maxWidth = 100
-					maxHeight = 20	
-				}
-			}
 			
-			windowType = {
-				name = "work_hours"
-				backGround =""
-				position = { x = 382 y = 156 }
-				size = { x=310 y=100 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_maxwork"
-				 spriteType = "GFX_politics_maxwork"
-				 position = { x= 7 y = 8 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
-					text = "REFORM_NAME"	
-					maxWidth = 100
-					maxHeight = 20	
-				}
-			}
-			
-			windowType = {
-				name = "safety_regulations"
-				backGround =""
-				position = { x = 382 y = 231 }
-				size = { x=310 y=100 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_safetyreg"
-				 spriteType = "GFX_politics_safetyreg"
-				 position = { x= 7 y = 10 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
-					text = "REFORM_NAME"	
-					maxWidth = 100
-					maxHeight = 20	
-				}
-			}
-			
-			windowType = {
-				name = "unemployment_subsidies"
-				backGround =""
-				position = { x = 382 y = 306 }
-				size = { x=310 y=100 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_unemplsub"
-				 spriteType = "GFX_politics_unemplsub"
-				 position = { x= 7 y = 11 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
-					text = "REFORM_NAME"	
-					maxWidth = 100
-					maxHeight = 20	
-				}
-			}
-			
-			windowType = {
-				name = "pensions"
-				backGround =""
-				position = { x = 382 y = 381 }
-				size = { x=310 y=100 }
-				moveable = 0
-				dontRender = ""
-				horizontalBorder = "0"
-				verticalBorder = ""
-				fullScreen = no
-				
-				iconType = {
-				 name = "politics_pensions"
-				 spriteType = "GFX_politics_pensions"
-				 position = { x= 7 y = 10 }
-				 Orientation = "UPPER_LEFT"
-			 }
-				
-				instantTextBoxType = { 
-					name = "reform_name"
-					position = { x = 40 y = 15 }
-					font = "vic_18"
-					text = "REFORM_NAME"	
-					maxWidth = 100
-					maxHeight = 20	
-				}
-			}
 			
 			windowType = {
 				name = "health_care"
@@ -1702,7 +1564,7 @@ guiTypes = {
 	windowType = {
 		name = "reform_option_window"
 		backGround =""
-		size = { x=130 y=14 }
+		size = { x=134 y=14 }
 		moveable = 0
 		dontRender = ""
 		horizontalBorder = "0"
@@ -1712,7 +1574,7 @@ guiTypes = {
 		
 		guiButtonType = {
 			name = "reform_option"
-			position = { x = 166 y = 9 }
+			position = { x = 16 y = 35 }
 			quadTextureSprite ="GFX_politics_reform_select"
 			buttonText = ""
 			buttonFont = "Arial14"
@@ -1721,17 +1583,17 @@ guiTypes = {
 		iconType = {
 			name = "selected"
 			spriteType = "GFX_politics_reform_selected"
-			position = { x = 148 y = 8 }
+			position = { x = 2 y = 34 }
 			Orientation = "UPPER_LEFT"
 		}
 		
 		instantTextBoxType = { 
 			name = "reform_name"
-			position = { x = 169 y = 10 }
+			position = { x = 18 y = 35 }
 			font = "Arial12_black"
 			text = "REFORM_OPTION_NAME"	
-			maxWidth = 130
-			maxHeight = 16
+			maxWidth = 134
+			maxHeight = 14
 			fixedsize = yes
 		}
 		
