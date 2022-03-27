@@ -17,7 +17,7 @@
 
 personality = {
     no_personality = {
-        defence = -3
+         reliability = 0.01
     }
     defence_1.1 = {
         defence = 1

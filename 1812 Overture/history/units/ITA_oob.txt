@@ -1,0 +1,64 @@
+leader = {
+   name = "Jean-Baptiste Jourdan"
+   type = land
+   date = 1836.1.1
+   background = attack_4.1 
+   personality = defence_3.1 
+}
+
+leader = {
+   name = "Carlo Balabio"
+   type = land
+   date = 1836.1.1
+   background = attack_3.4 
+   personality = defence_1.16 
+}
+
+leader = {
+   name = "Eugene de Beauharnais"
+   type = land
+   date = 1836.1.1
+   background = attack_4.1 
+   personality = defence_2.2 
+}
+
+army = {
+	name = "Garde Royale"
+	location = 722
+	regiment = {
+		name= "1.Garde Royale"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "2.Garde Royale"
+		type = artillery
+		home = 726
+	}
+
+	regiment = {
+		name= "3.Garde Royale"
+		type = artillery
+		home = 722
+	}
+
+	regiment = {
+		name= "4.Garde Royale"
+		type = artillery
+		home = 727
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = artillery
+		home = 728
+	}
+
+	regiment = {
+		name= "3.3ème Division d'Infanterie"
+		type = hussar
+		home = 739
+	}
+}
+
