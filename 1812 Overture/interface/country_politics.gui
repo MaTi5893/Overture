@@ -198,7 +198,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "reforms_text"
 			position = { x = 386 y = 20 }
-			font = "vic_22_black"
+			font = "vic_22"
 			text = "POLITICS_REFORMS"	
 			allwaystransparent = yes
 			maxWidth = 145
@@ -216,7 +216,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "movements_tab_text"
 			position = { x = 540 y = 20 }
-			font = "vic_22_black"
+			font = "vic_22"
 			text = "POLITICS_MOVEMENTS_TAB"	
 			allwaystransparent = yes
 			maxWidth = 145
@@ -234,7 +234,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "decisions_tab_text"
 			position = { x = 694 y = 20 }
-			font = "vic_22_black"
+			font = "vic_22"
 			text = "POLITICS_DECISIONS_TAB"	
 			allwaystransparent = yes
 			maxWidth = 145
@@ -252,7 +252,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "release_nations_text"
 			position = { x = 848 y = 20 }
-			font = "vic_22_black"
+			font = "vic_22"
 			text = "POLITICS_RELEASE_NATIONS"	
 			allwaystransparent = yes
 			maxWidth = 145
@@ -418,7 +418,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "decisions_label"
 				position = { x = 155 y = 44 }
-				font = "vic_22"
+				font = "vic_22_black"
 				text = "POLITICS_DECISIONS"	
 				maxWidth = 300
 				maxHeight = 20
@@ -454,7 +454,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "suppression_label"
 				position = { x = 17 y = 74 }
-				font = "vic_18_black"
+				font = "vic_18"
 				text = "SUPPRESSION_POINTS"
 				maxWidth = 180
 				maxHeight = 20
@@ -465,7 +465,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "suppression_value"
 				position = { x = 210 y = 74 }
-				font = "vic_18_black"
+				font = "vic_18"
 				text = "999"
 				maxWidth = 60
 				maxHeight = 20
@@ -504,7 +504,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "movements_label"
 				position = { x = 15 y = 44 }
-				font = "vic_22"
+				font = "vic_22_black"
 				text = "POLITICS_MOVEMENTS"	
 				maxWidth = 280
 				maxHeight = 22
@@ -524,7 +524,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "rebels_label"
 				position = { x = 321 y = 44 }
-				font = "vic_22"
+				font = "vic_22_black"
 				text = "POLITICS_REBELS"	
 				maxWidth = 280
 				maxHeight = 22
@@ -1753,7 +1753,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "decision_name"
 			position = { x = 13 y = 5 }
-			font = "vic_18"
+			font = "vic_18_black"
 			text = "GOVERNMENT_NAME"	
 			maxWidth = 540
 			maxHeight = 20
@@ -1770,7 +1770,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "decision_desc"
 			position = { x = 114 y = 27 }
-			font = "Arial12_black"
+			font = "Arial12"
 			text = "lorem ipsum"	
 			maxWidth = 435
 			maxHeight = 130
@@ -1832,7 +1832,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "name"
 			position = { x = 23 y = 3 }
-			font = "vic_18"
+			font = "vic_18_black"
 			text = ""	
 			maxWidth = 260
 			maxHeight = 20
@@ -2109,7 +2109,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "name"
 			position = { x = 34 y = 2 }
-			font = "vic_22"
+			font = "vic_22_black"
 			text = "1234"	
 			maxWidth = 320
 			maxHeight = 20
@@ -2119,7 +2119,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "type"
 			position = { x = 345 y = 5 }
-			font = "vic_18"
+			font = "vic_18_black"
 			text = "1234"	
 			maxWidth = 200
 			maxHeight = 20
@@ -2130,7 +2130,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "desc"
 			position = { x = 11 y = 30 }
-			font = "Arial12"
+			font = "Arial12_black"
 			text = "1234"	
 			maxWidth = 372
 			maxHeight = 20

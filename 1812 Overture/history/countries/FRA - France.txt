@@ -2,7 +2,7 @@ capital = 425
 primary_culture = french
 culture = french_canadian
 religion = catholic
-government = hms_government
+government = prussian_constitutionalism
 plurality = 25
 nationalvalue = leader_napoleon
 literacy = 0.60
@@ -75,7 +75,7 @@ commerce_raiders = yes
 consciousness = 3
 nonstate_consciousness = 1
 
-ruling_party = FRA_liberal
+ruling_party = "Bonapartist"
 last_election = 1834.6.21
 upper_house = {
 	fascist = 0
@@ -89,6 +89,10 @@ upper_house = {
 
 govt_flag = {
 	government = hms_government
+	flag = presidential_dictatorship
+}
+govt_flag = {
+	government = prussian_constitutionalism
 	flag = presidential_dictatorship
 }
 

@@ -26,7 +26,7 @@ categories =  {
 		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
-		supply_limit = 10
+		supply_limit = 12
 	}
 	
 	forest = {
@@ -38,7 +38,7 @@ categories =  {
 		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
-		supply_limit = 6
+		supply_limit = 8
 		combat_width = -0.20
 	}
 	hills = {
@@ -50,7 +50,7 @@ categories =  {
 		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
-		supply_limit = 6
+		supply_limit = 8
 		min_build_railroad = 1
 		combat_width = -0.33
 	}
@@ -63,19 +63,19 @@ categories =  {
 		farm_rgo_eff = 0.0
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
-		supply_limit = 6
+		supply_limit = 8
 		combat_width = -0.20
 	}
 	
 	mountain = {
 		movement_cost = 1.4
-		defence = 2
+		defence = 3
 		color = { 117 108 119 }
 		farm_rgo_size = 0
 		farm_rgo_eff = -0.25
 		mine_rgo_size = 0.0
 		mine_rgo_eff = 0.0
-		supply_limit = 2
+		supply_limit = 4
 		
 		combat_width = -0.66
 		

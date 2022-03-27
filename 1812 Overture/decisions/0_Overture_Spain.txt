@@ -1,0 +1,67 @@
+political_decisions = {
+	civil_war_NSA_win = {
+		picture = peninsular_war
+		potential = {
+			exists = SPA
+			tag = NSA
+		}
+		allow = {
+			all_core = {
+				controlled_by = THIS
+			}
+		}
+		effect = {
+			inherit = SPA
+			all_core = {
+				remove_core = SPA
+			}
+			add_accepted_culture = spanish
+		}
+	}
+	
+	civil_war_SPA_win = {
+		picture = peninsular_war
+		potential = {
+			exists = NSA
+			tag = SPA
+		}
+		allow = {
+			NSA = {
+				all_core = {
+					controlled_by = THIS
+				}
+			}
+		}
+		effect = {
+			inherit = NSA
+			all_core = {
+				remove_core = NSA
+			}
+		}
+	}
+	
+	1812_const = {
+		picture = spa_1812
+		potential = {
+			tag = SPA
+		}
+		allow = {
+			state_n_government = 1
+			487 = { controlled_by = THIS }
+		}
+		effect = {
+			government = hms_government
+			political_reform = wealth_voting
+			add_accepted_culture = mexican
+			add_accepted_culture = north_andean
+			add_accepted_culture = central_american
+			add_accepted_culture = caribeno
+			add_accepted_culture = quechua
+			add_accepted_culture = platinean
+			add_accepted_culture = south_andean
+			any_pop = {
+				militancy = -3
+			}
+		}
+	}
+}
