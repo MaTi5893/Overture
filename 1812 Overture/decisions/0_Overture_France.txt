@@ -1,0 +1,53 @@
+political_decisions = {
+	reorganize_italy = {
+		picture = italy
+		potential = {
+			tag = FRA
+			is_our_vassal = PAR
+			is_our_vassal = PAP
+			is_our_vassal = ITA
+			is_our_vassal = TUS
+			NOT = { has_country_flag = italy }
+		}
+		allow = {
+			state_n_government = 1
+			war = no
+		}
+		effect = {
+			inherit = PAP
+			inherit = TUS
+			inherit = PAR
+			inherit = LUC
+			752 = { secede_province = ITA }
+			SWI = { 609 = { secede_province = THIS } }
+			set_country_flag = italy
+ 		}
+	}
+	reorganize_north_germany = {
+		potential = {
+			tag = FRA
+			is_our_vassal = NET
+		}
+		allow = {
+			state_n_government = 1
+			owns = 581
+			owns = 538
+			is_our_vassal = HAN
+		}
+		effect = {
+			inherit = NET
+			581 = { secede_province = THIS }
+			542 = { secede_province = THIS }
+			538 = { secede_province = THIS }
+			541 = { secede_province = THIS }
+			543 = { secede_province = THIS }
+			540 = { secede_province = THIS }
+			535 = { secede_province = THIS }
+			539 = { secede_province = THIS }
+			531 = { secede_province = THIS }
+			528 = { secede_province = THIS }
+			529 = { secede_province = THIS }
+			530 = { secede_province = THIS }
+		}
+	}
+}

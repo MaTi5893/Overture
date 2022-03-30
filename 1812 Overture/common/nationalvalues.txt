@@ -16,29 +16,27 @@ nv_equality = {
 leader_napoleon = {
 	mobilisation_size = 0.06
 	mobilisation_economy_impact = 1.25
-	org_regain = 2
+	org_regain = 1
 }
 
 leader_frederich_wilhelm = {
-	mobilisation_size = 0.06
-	mobilisation_economy_impact = 1.25
-	org_regain = 2
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1
+	culture_research_tech_bonus = 0.05
 }
 
 leader_alexander = {
-	mobilisation_size = 0.06
-	mobilisation_economy_impact = 1.25
-	org_regain = 2
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1
 }
 
 leader_leapold_ii = {
-	mobilisation_size = 0.06
-	mobilisation_economy_impact = 1.25
-	org_regain = 2
+	mobilisation_size = 0.04
+	mobilisation_economy_impact = 1.0
+	influence = 0.25
 }
 
 leader_george_iii = {
-	mobilisation_size = 0.06
-	mobilisation_economy_impact = 1.25
-	org_regain = 2
+	org_regain = 0.25
+	commerce_tech_research_bonus = 0.05
 }
