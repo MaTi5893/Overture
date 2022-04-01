@@ -687,6 +687,12 @@ promote_to =
 			modifier = {
 				factor = -2
 				soldiers = 0.035
+				country = { NOT = { military = mob_military } }
+			}
+			modifier = {
+				factor = -100
+				soldiers = 0.035
+				country = { military = mob_military }
 			}
 			modifier = {
 				factor = -2
@@ -695,10 +701,16 @@ promote_to =
 			modifier = {
 				factor = -2
 				soldiers = 0.045
+				country = { NOT = { military = standing_military } }
 			}
 			modifier = {
 				factor = -100
-				soldiers = 0.05
+				soldiers = 0.045
+				country = { military = standing_military }
+			}
+			modifier = {
+				factor = -100
+				soldiers = 0.055
 			}
 		}
 	}

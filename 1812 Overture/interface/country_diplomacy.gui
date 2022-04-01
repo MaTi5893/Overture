@@ -738,7 +738,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "country_name"
 				position = { x = 120 y = 4 }
-				font = "vic_22"
+				font = "vic_22_black"
 				text = "France"	
 				maxWidth = 175
 				maxHeight = 20
@@ -753,7 +753,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "our_relation"
 				position = { x = 320 y = 4 }
-				font = "vic_22"
+				font = "vic_22_black"
 				text = "-200"	
 				maxWidth = 100
 				maxHeight = 20	
@@ -808,7 +808,7 @@ guiTypes = {
 					name = "selected_score_label"
 					position = { x = 200 y = 86 }
 					textureFile = ""
-					font = "vic_18"
+					font = "vic_18_black"
 					borderSize = {x = 0 y = 4}
 					text = "FE_SCORE"	
 					maxWidth = 100
@@ -819,7 +819,7 @@ guiTypes = {
 					name = "selected_rank_label"
 					position = { x = 258 y = 86 }
 					textureFile = ""
-					font = "vic_18"
+					font = "vic_18_black"
 					borderSize = {x = 0 y = 4}
 					text = "FE_RANK"	
 					maxWidth = 80
@@ -973,7 +973,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "country_population_label"
 				position = { x = 48 y = 176 }
-				font = "vic_18"
+				font = "vic_18_black"
 				text = "DIPLOMACY_POPULATION_LABEL"	
 				maxWidth = 200
 				maxHeight = 20	
@@ -982,7 +982,7 @@ guiTypes = {
 			instantTextBoxType = { 
 				name = "country_population"
 				position = { x = 243 y = 177 }
-				font = "vic_18"
+				font = "vic_18_black"
 				text = "country_population"	
 				maxWidth = 100
 				maxHeight = 20
@@ -1466,7 +1466,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "country_name"
 			position = { x = 64 y = 10 }
-			font = "vic_22"
+			font = "vic_22_black"
 			text = "France"	
 			maxWidth = 180
 			maxHeight = 20	
@@ -1511,7 +1511,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_prestige"
 			position = { x = 269 y = 5 }
-			font = "Arial12_black"
+			font = "Arial12"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1519,7 +1519,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_economic"
 			position = { x = 269 y = 18 }
-			font = "Arial12_black"
+			font = "Arial12"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1527,7 +1527,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_military"
 			position = { x = 269 y = 31 }
-			font = "Arial12_black"
+			font = "Arial12"
 			text = "123"	
 			maxWidth = 50
 			maxHeight = 20	
@@ -1536,7 +1536,7 @@ guiTypes = {
 		instantTextBoxType = { 
 			name = "gp_total"
 			position = { x = 269 y = 44 }
-			font = "Arial12_bold_black"
+			font = "Arial12_bold"
 			text = "1234"	
 			maxWidth = 50
 			maxHeight = 20	

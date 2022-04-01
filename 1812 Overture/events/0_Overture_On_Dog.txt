@@ -1,0 +1,21 @@
+country_event = {
+	id = 181200
+	title = "Clauswitz's On Dog"
+	desc = "All warfare is based on dog."
+	picture = "on_dog"
+	is_triggered_only = yes
+	picture = on_dog
+	
+	option = {
+		name = "The Dog conscripts the innocent"
+		social_reform = mob_military
+	}
+	option = {
+		name = "The Dog does not give a fuck"
+		social_reform = standing_military
+	}
+	option = {
+		name = "The Dog is proffesional"
+		social_reform = prof_military
+	}
+}

@@ -382,14 +382,17 @@ social_reforms = {
 		}
 	}
 	military = {
-		mob_military = {
-		
+		mob_military = { #3.5
+			mobilisation_size = 0.03
+			mobilisation_economy_impact = 0.75
 		}
-		standing_military = {
-		
+		standing_military = { #4.5
+			mobilisation_size = 0.02
+			mobilisation_economy_impact = 0.50
 		}
-		prof_military = {
-		
+		prof_military = { #5.5
+			mobilisation_size = 0.01
+			mobilisation_economy_impact = 0.25
 		}
 	}
 	law = {

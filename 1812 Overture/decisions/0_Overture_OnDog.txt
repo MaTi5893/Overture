@@ -1,0 +1,14 @@
+political_decisions = {
+	read_on_dog = {
+		picture = on_dog
+		potential = {
+			ai = no
+		}
+		allow = {
+			exists = yes
+		}
+		effect = {
+			country_event = 181200
+		}
+	}
+}
