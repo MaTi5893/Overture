@@ -397,7 +397,15 @@ promote_to =
 			factor = -100 
 			NOT = { is_accepted_culture = yes }
 			NOT = { is_primary_culture = yes }
-		}	
+		}
+		modifier = {
+			factor = 5
+			country = { parliament = admin_parliament }
+		}
+		modifier = {
+			factor = 2.5
+			country = { law = casuistic }
+		}
 		group = {
 			modifier = {
 				factor =  0.25

@@ -9,12 +9,17 @@ FRA_prussian_constitutionalism;French Empire;;;;;;;;;;;;;
 USA;United States;;;;;;;;;;;;;
 parliament;Parliament;;;;;;;;;;;;;
 no_parliament;No Parliament;;;;;;;;;;;;;
+no_parliament_desc;Currently Neutral.;;;;;;;;;;;;;
 admin_parliament;Administrative Parliament;;;;;;;;;;;;;
+admin_parliament_desc;§YBureaucrat promotion is increased§!
 legislative_parliament;Legislative Parliament;;;;;;;;;;;;;
 military;Military;;;;;;;;;;;;;
 mob_military;Conscription Army;;;;;;;;;;;;;
+mob_military_desc;§YAllows you to recruit up to §R3.5%§Y soldier pops§!;;;;;;;;;;;;;
 standing_military;Standing Army;;;;;;;;;;;;;
+standing_military_desc;§YAllows you to recruit up to 4.5% soldier pops§!;;;;;;;;;;;;;
 prof_military;Proffesional Army;;;;;;;;;;;;;
+prof_military_desc;§YAllows you to recruit up to §G5.5%§Y soldier pops§!;;;;;;;;;;;;;
 law;Law&Codifications;;;;;;;;;;;;;
 no_codification;Not Codified;;;;;;;;;;;;;
 casuistic;Casuistic;;;;;;;;;;;;;

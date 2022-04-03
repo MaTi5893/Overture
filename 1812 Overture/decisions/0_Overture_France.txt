@@ -24,6 +24,7 @@ political_decisions = {
  		}
 	}
 	reorganize_north_germany = {
+		picture = westphalia
 		potential = {
 			tag = FRA
 			is_our_vassal = NET
